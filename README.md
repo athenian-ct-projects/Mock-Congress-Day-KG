@@ -2,8 +2,6 @@
 
 written by KG '23
 
-edit with appropriate link:
-
 [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Mock-Congress-Day-KG)](https://repl.it/github/athenian-ct-projects/Mock-Congress-Day-KG)
 
 * Note from the author: This is quite inefficient because it's based on a not-currently-working build of the ranked voting system.
