@@ -1,6 +1,8 @@
 print("""
+Voting system for Mock Congress Day
 Note from the author: This is quite inefficient because it's based on a not-currently-working build of the ranked voting system.
 It's essentially the ranked voting program with some functionality (and the lack of it functioning correctly) removed.
+-KG '23
 """)
 
 #function to add "Message to operators: " before operator messages
